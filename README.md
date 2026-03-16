@@ -1,4 +1,4 @@
-# PR-BR: Estruturas de Dados: Manipulação de Arrays em Java
+# PT-BR: Estruturas de Dados: Manipulação de Arrays em Java
 
 Este repositório contém uma série de implementações em Java focadas em algoritmos fundamentais de manipulação de arrays. O objetivo destes exercícios é demonstrar conceitos de **complexidade de tempo $O(n)$**, gerenciamento de memória e lógica de ponteiros em estruturas sequenciais.
 
