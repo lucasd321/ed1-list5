@@ -41,3 +41,50 @@ Implementação da lógica base do algoritmo *Merge Sort*. O programa recebe doi
 * Lógica de redimensionamento para criar estruturas de dados flexíveis.
 
 ---
+
+# Data Structures: Array Manipulation in Java
+
+This repository contains a series of Java implementations focused on fundamental array manipulation algorithms. The goal of these exercises is to demonstrate concepts of **O(n) time complexity**, memory management, and pointer logic in sequential structures.
+
+## 🚀 Repository Content
+
+The project is divided into 5 logic challenges:
+
+### 1. Shift Right Insertion
+
+Implementation of an algorithm that inserts an element at a specific position in the array. To do this, all elements to the right of the desired index are shifted one position forward, illustrating the linear cost of insertion in static lists.
+
+### 2. Dynamic Resizing
+
+Simulation of the behavior of an `ArrayList`. The program detects when the array has reached its maximum capacity and automatically creates a new array with **twice the size**, migrating the data to allow for new insertions.
+
+### 3. Shift-Left Deletion
+
+Algorithm to remove a specific value from an array. Upon finding the value, the program reorganizes the structure by moving all subsequent items to the left, ensuring that there are no "holes" or empty spaces between valid data.
+
+### 4. Duplicate Removal
+
+An advanced search and maintenance exercise. The algorithm traverses the array identifying repeated values ​​and removes the extra occurrences, reorganizing the vector after each removal to maintain data continuity.
+
+### 5. Merge of Sorted Arrays
+
+Implementation of the basic logic of the *Merge Sort* algorithm. The program receives two arrays that are already in ascending order and merges them into a third array. Merging is done efficiently, comparing element by element simultaneously, without the need for external sorting methods.
+
+---
+
+## 🛠️ Technologies Used
+
+* **Language:** Java 17+
+* **Concepts:** Sorting algorithms, Algorithm Complexity (Big O), Memory Management.
+
+## 🧠 What I learned from these exercises
+
+* The difference between **Capacity** (total space) and **Size** (elements present).
+
+* Why insertions and removals in arrays have a cost of $O(n)$.
+
+* The importance of avoiding gaps in sequential data structures.
+
+* Resizing logic to create flexible data structures.
+
+---
