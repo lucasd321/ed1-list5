@@ -1,4 +1,4 @@
-# Estruturas de Dados: Manipulação de Arrays em Java
+# PR-BR: Estruturas de Dados: Manipulação de Arrays em Java
 
 Este repositório contém uma série de implementações em Java focadas em algoritmos fundamentais de manipulação de arrays. O objetivo destes exercícios é demonstrar conceitos de **complexidade de tempo $O(n)$**, gerenciamento de memória e lógica de ponteiros em estruturas sequenciais.
 
@@ -42,7 +42,7 @@ Implementação da lógica base do algoritmo *Merge Sort*. O programa recebe doi
 
 ---
 
-# Data Structures: Array Manipulation in Java
+# ENGLISH: Data Structures: Array Manipulation in Java
 
 This repository contains a series of Java implementations focused on fundamental array manipulation algorithms. The goal of these exercises is to demonstrate concepts of **O(n) time complexity**, memory management, and pointer logic in sequential structures.
 
